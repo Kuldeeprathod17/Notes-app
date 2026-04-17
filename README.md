@@ -14,8 +14,8 @@ A modern web application for creating and managing notes, built with FastAPI and
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd notes-app
+git clone https://github.com/Kuldeeprathod17/Notes-app.git
+cd Notes-app
 ```
 
 2. Create a virtual environment and activate it:
